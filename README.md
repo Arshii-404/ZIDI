@@ -1,6 +1,6 @@
 #     [ZIDI-PRO TOOL]
 
-# ZIDI TOOL FULL OK IDZ ✅
+# ZIDI PRO TOOL FULL OK IDZ ✅
 
 # Installation 👇
 🔰rm -rf ZIDI
