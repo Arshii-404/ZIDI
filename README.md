@@ -1,8 +1,14 @@
+#     [ZIDI-PRO TOOL]
+
 # ZIDI TOOL FULL OK IDZ ✅
-•rm -rf ZIDI
 
-•git clone https://github.com/Arshii-404/ZIDI
+# Installation 👇
+🔰rm -rf ZIDI
 
-•cd ZIDI
+🔰git clone https://github.com/Arshii-404/ZIDI
 
-•python ZIDI.py
+🔰cd ZIDI
+
+🔰python ZIDI.py
+
+
